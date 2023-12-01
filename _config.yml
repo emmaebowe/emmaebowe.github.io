@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : ""
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : ""
 name                     : "Emma Ebowe"
 description              : "Emma Ebowe personal website."
 url                      : "https://emmaebowe.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,8 +106,15 @@ analytics:
 author:
   name             : "Emma Ebowe"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "PhD Candidate in Government, secondary in African and African American Studies, Harvard University"
+  location         : |
+                      CGIS Knafel
+                      <br>
+                      1737 Cambridge St
+                      <br>
+                      Cambridge
+                      <br>
+                      MA 02138
   email            : eebowe@g.harvard.edu
   links:
     - label: "Email"
