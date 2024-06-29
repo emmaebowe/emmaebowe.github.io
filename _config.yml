@@ -106,7 +106,10 @@ analytics:
 author:
   name             : "Emma Ebowe"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Government, secondary in African and African American Studies, Harvard University"
+  bio              : |
+                      PhD Candidate in Government and African and African American Studies
+                      <br>
+                      Harvard University
   location         : |
                       CGIS Knafel
                       <br>
