@@ -36,11 +36,11 @@ include-in-header:
 :::
 -->
 ::: {.column width="100%"}
-:::: {.justified}
+
 Hello! I'm a PhD candidate in the Department of Government at Harvard University, with a secondary field in African and African American Studies. I am a [James M. and Cathleen D. Stone PhD Scholar in Inequality and Wealth Concentration](https://inequality.hks.harvard.edu/) at the Harvard Kennedy School, and a Graduate Fellow at the [Edmond & Lily Safra Center for Ethics](https://ethics.harvard.edu/). I am affiliated with the [Center for American Political Studies](https://caps.gov.harvard.edu/home), [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu), and the [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.org/about.html).
 
 I'm primarily a political theorist who is interested in race, gender, and democracy, specifically within state institutions, but I also have research agendas in political methodology and applied ethics. My current dissertation project draws from reproductive justice advocacy, as well as black radical and feminist theory to characterise injustice in the contemporary foster system. In political methodology, I am interested in partisan gerrymandering in congressional redistricting, specifically its implications for racial justice and democratic equality.
-::::
+
 :::
 :::
 :::
