@@ -14,11 +14,13 @@ include-in-header:
 ---
 ::: column-page-inset
 ::: columns
+<!--
 ::: {.column width="35%"}
 
 :::
+-->
 
-::: {.column width="65%"}
+::: {.column width="100%"}
 # EMMA EBOWE{style="text-transform:none;"}
 #
 :::
