@@ -1,0 +1,38 @@
+project:
+  type: website
+  resources:
+    - "files/"
+
+website:
+  search: false
+  navbar:
+    background: "#e3d8d899"
+    pinned: true
+    left:
+    - text: "Welcome"
+      href: index.qmd
+    - text: "Research"
+      href: index.html#research
+    - text: "Teaching"
+      href: index.html#teaching
+    - text: "Service"
+      href: index.html#service
+
+    right:
+    - text: "CV"
+      href: cv/cv_eebowe.pdf
+    - text: "{{< bi envelope >}}"
+      href: mailto:eebowe@g.harvard.edu
+
+format:
+  html:
+    theme:
+    - lux
+    - custom.scss
+    css: styles.css
+    toc: false
+    linkcolor: darkblue
+    fontsize: 12.5pt
+
+editor: visual
+
