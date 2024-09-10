@@ -9,7 +9,7 @@ website:
   title: "Emma Ebowe"
   navbar:
     title: false
-    background: "#e3d8d899"
+    background: "#e3d8d8"
     pinned: true
     left:
     - text: "Welcome"
