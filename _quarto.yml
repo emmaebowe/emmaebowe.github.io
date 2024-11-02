@@ -25,7 +25,8 @@ website:
     - text: "Service"
       href: service.qmd
 
-    google-analytics: "G-WC1DHY5K8W"
+  google-analytics:
+    tracking-id: "G-WC1DHY5K8W"
 
 format:
   html:
