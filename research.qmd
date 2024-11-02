@@ -37,7 +37,7 @@ include-in-header:
 
 ### Works in Progress
 
-*From Republican to Bipartisan Gerrymandering: Comparing Partisan Bias in Congressional Redistricting Cycles from 2010 to 2020* (2024). [Poster.]()
+*From Republican to Bipartisan Gerrymandering: Comparing Partisan Bias in Congressional Redistricting Cycles from 2010 to 2020* (2024). 
 
 *How Should Universities Ethically Engage with the Direct Descendants of those Enslaved by their Faculty, Leaders, and Staff?* (2024). With Christopher Hopson and Danielle Allen.
 

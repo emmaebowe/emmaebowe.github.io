@@ -19,7 +19,7 @@ website:
 
     right:
     - text: "CV"
-      href: cv/testcv.pdf
+      href: cv/eebowe_cv_sep2024.pdf
     - text: "{{< bi envelope >}}"
       href: mailto:eebowe@g.harvard.edu
     - text: "Service"
