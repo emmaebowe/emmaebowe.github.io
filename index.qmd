@@ -29,7 +29,7 @@ include-in-header:
 ::: column-page-inset
 ::: columns
 ::: {.column width="50%"}
-<br> <br> ![](notsmilingcrop.jpg){width="90%"} <br> <h7 style="font-size:0.6vw">Photo by Melissa Blackall</h7>
+<br> <br> ![](headshot.jpg){width="90%"} <br> <h7 style="font-size:0.6vw">Photo by Melissa Blackall</h7>
 :::
 
 ::: {.column width="50%"}
