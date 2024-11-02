@@ -7,7 +7,6 @@ include-in-header:
     <style type="text/css">
       h1, .h1 {
         border-bottom: none;
-        line-height: 18.4px;
         padding-bottom: 0.01px;
       }
     </style>
