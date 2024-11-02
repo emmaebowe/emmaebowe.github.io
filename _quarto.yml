@@ -19,11 +19,13 @@ website:
 
     right:
     - text: "CV"
-      href: cv/eebowe_cv_sep2024.pdf
+      href: cv/CV_Oct2024.pdf
     - text: "{{< bi envelope >}}"
       href: mailto:eebowe@g.harvard.edu
     - text: "Service"
       href: service.qmd
+
+    google-analytics: "G-WC1DHY5K8W"
 
 format:
   html:
