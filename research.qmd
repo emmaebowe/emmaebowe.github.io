@@ -1,0 +1,51 @@
+---
+title: ""
+include-in-header:
+  text: |
+    <style type="text/css">
+      h1, .h1 {
+        border-bottom: none;
+        line-height: 18.4px;
+        padding-bottom: 0.1px;
+      }
+    </style>
+---
+
+::: column-page-inset
+::: columns
+::: {.column width="35%"}
+:::
+
+::: {.column width="65%"}
+# RESEARCH {style="text-transform:none;"}
+:::
+:::
+:::
+
+::: column-page-inset
+::: columns
+::: {.column width="50%"}
+<br> ![](talkingcrop.jpeg){width="90%"} <br> <h7 style="font-size:0.6vw">Photo by Melissa Blackall</h7>
+:::
+
+::: {.column width="50%"}
+### Journal Articles
+
+*Relational Violence, Injustice, and the Foster System* (2024). Under Review. Draft available on request.
+
+[*Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors*](https://arxiv.org/abs/2407.11336) (2024). <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. <br>
+
+### Works in Progress
+
+*From Republican to Bipartisan Gerrymandering: Comparing Partisan Bias in Congressional Redistricting Cycles from 2010 to 2020* (2024). [Poster.]()
+
+*How Should Universities Ethically Engage with the Direct Descendants of those Enslaved by their Faculty, Leaders, and Staff?* (2024). With Christopher Hopson and Danielle Allen.
+
+*Parenting in Poverty: Injustice and Contemporary Definitions of Child Neglect.*
+
+*Racial Ideology, Welfare, and the Value of Black Intimate Bonds.*
+
+<br>
+:::
+:::
+:::

@@ -1,31 +1,28 @@
 project:
   type: website
-  output-dir: "docs"
   resources:
     - "files/"
 
 website:
   search: false
-  title: "Emma Ebowe"
   navbar:
-    title: false
-    background: "#e3d8d8"
+    background: "#B7C0CD"
     pinned: true
     left:
     - text: "Welcome"
       href: index.qmd
     - text: "Research"
-      href: index.html#research
+      href: research.qmd
     - text: "Teaching"
-      href: index.html#teaching
-    - text: "Service"
-      href: index.html#service
+      href: teaching.qmd
 
     right:
     - text: "CV"
-      href: cv/cv_eebowe.pdf
+      href: cv/testcv.pdf
     - text: "{{< bi envelope >}}"
       href: mailto:eebowe@g.harvard.edu
+    - text: "Service"
+      href: service.qmd
 
 format:
   html:

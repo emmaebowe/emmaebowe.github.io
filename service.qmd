@@ -1,0 +1,31 @@
+---
+title: ""
+include-in-header:
+  text: |
+    <style type="text/css">
+      h1, .h1 {
+        border-bottom: none;
+        line-height: 18.4px;
+        padding-bottom: 0.1px;
+      }
+    </style>
+---
+::: column-page-inset
+::: columns
+::: {.column width="20%"}
+
+:::
+
+::: {.column width="80%"}
+# SERVICE AND AFFILIATIONS {style="text-transform:none;"}
+:::
+:::
+:::
+
+#######
+### Quincy House
+I have been fortunate to serve as a residential advisor and tutor in Harvard's second largest undergraduate dorm, [Quincy House](https://quincy.harvard.edu), for the past four years. During my time as a residential tutor I have advised students on academic fellowships within and beyond the university community, declaring a concentration (major) in Government, going to graduate school, LQBTQ advocacy, consent, sexual health and relationships, and writing a senior thesis. I have hosted dorm wide programming, events, and workshops.
+
+### Affiliations
+
+I am a graduate student affiliate of the following centres and research groups: <br> The [Center for American Political Studies](https://caps.gov.harvard.edu/home) <br> The [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu) <br> The [Institute for Quantitative Social Science](https://www.iq.harvard.edu) <br> The [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.org/about.html).
