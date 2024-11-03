@@ -10,6 +10,8 @@ include-in-header:
         padding-bottom: 0.01px;
       }
     </style>
+    
+
 ---
 
 :::::: {.column-page}
@@ -25,9 +27,8 @@ include-in-header:
 
 :::: {.g-col-12 .g-col-sm-6}
 
-
-<br> ![](headshot.jpg){ width="90%"} <br> 
-<h7 style="font-size:9px; " >Photo by Melissa Blackall</h7>
+<br> ![](headshot.jpg){width="95%"}
+<h7 style="font-size:9px" >Photo by Melissa Blackall</h7>
 
 ::::
 

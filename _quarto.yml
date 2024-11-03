@@ -5,8 +5,10 @@ project:
     - "files/"
 
 website:
+  title: "Emma Ebowe"
   search: false
   navbar:
+    title: false
     background: "#B7C0CD"
     pinned: true
     left:
@@ -24,7 +26,9 @@ website:
       href: mailto:eebowe@g.harvard.edu
     - text: "Service"
       href: service.qmd
-
+  page-footer:
+    left: |
+      © 2024 Emma Ebowe
   google-analytics:
     tracking-id: "G-WC1DHY5K8W"
 

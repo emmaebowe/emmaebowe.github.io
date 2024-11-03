@@ -22,7 +22,7 @@ include-in-header:
 
 
 :::: {.g-col-12 .g-col-sm-6}
-<br> ![](talking.jpeg){width="90%"} <br> <h7 style="font-size:9px">Photo by Melissa Blackall</h7>
+<br> ![](talking.jpeg){width="95%"} <br> <h7 style="font-size:9px">Photo by Melissa Blackall</h7>
 ::::
 
 :::: {.g-col-12 .g-col-sm-6}
