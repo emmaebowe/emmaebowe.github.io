@@ -10,18 +10,15 @@ include-in-header:
     </style>
 ---
 
-::: column-page-inset
-::: columns
-::: {.column width="20%"}
-:::
+::::: {.grid}
+:::: {.g-col-12 .g-col-sm-12}
+::: {.text-center}
 
-::: {.column width="80%"}
-# SERVICE AND AFFILIATIONS {style="text-transform:none;"}
-:::
-:::
-:::
+# SERVICE AND AFFILIATIONS
 
-####### 
+:::
+::::
+::::: 
 
 ### Quincy House
 
@@ -30,3 +27,5 @@ I have been fortunate to serve as a residential advisor and tutor in Harvard's s
 ### Affiliations
 
 I am a graduate student affiliate of the following centres and research groups: <br> The [Center for American Political Studies](https://caps.gov.harvard.edu/home) <br> The [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu) <br> The [Institute for Quantitative Social Science](https://www.iq.harvard.edu) <br> The [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.org/about.html).
+
+

@@ -10,24 +10,22 @@ include-in-header:
     </style>
 ---
 
-::: column-page-inset
-::: columns
-::: {.column width="35%"}
-:::
+:::::: {.column-page}
+::::: {.grid}
+:::: {.g-col-12 .g-col-sm-12}
+::: {.text-center}
 
-::: {.column width="65%"}
-# RESEARCH {style="text-transform:none;"}
-:::
-:::
-:::
+# RESEARCH
 
-::: column-page-inset
-::: columns
-::: {.column width="50%"}
-<br> ![](talking.jpeg){width="90%"} <br> <h7 style="font-size:0.6vw">Photo by Melissa Blackall</h7>
 :::
+::::
 
-::: {.column width="50%"}
+
+:::: {.g-col-12 .g-col-sm-6}
+<br> ![](talking.jpeg){width="90%"} <br> <h7 style="font-size:9px">Photo by Melissa Blackall</h7>
+::::
+
+:::: {.g-col-12 .g-col-sm-6}
 ### Journal Articles
 
 *Relational Violence, Injustice, and the Foster System* (2024). Under Review. Draft available on request.
@@ -44,7 +42,8 @@ include-in-header:
 
 *Racial Ideology, Welfare, and the Value of Black Intimate Bonds.*
 
-<br>
-:::
-:::
-:::
+::::
+
+::::: 
+
+::::::
