@@ -10,18 +10,16 @@ include-in-header:
     </style>
 ---
 
-::: column-page-inset
-::: columns
-::: {.column width="35%"}
-:::
+::::: {.grid}
+:::: {.g-col-12 .g-col-sm-12}
+::: {.text-center}
 
-::: {.column width="65%"}
-# TEACHING {style="text-transform:none;"}
-:::
-:::
-:::
+# TEACHING
 
-####### 
+:::
+::::
+::::: 
+
 
 I have experience teaching for courses in democratic theory, the history of political thought, justice, public policy, and black feminist thought and literature. Copies of my teaching evaluations and sample syllabi are available upon request.
 
