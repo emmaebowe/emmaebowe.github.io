@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Emma Ebowe"
+  favicon: "favicon-32x32.png"
   search: false
   navbar:
     title: false
