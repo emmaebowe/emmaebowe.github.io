@@ -28,7 +28,7 @@ include-in-header:
 :::: {.g-col-12 .g-col-sm-6}
 ### Journal Articles
 
-*Relational Violence, Injustice, and the Foster System* (2024). Under Review. Draft available on request.
+*Injustice, Relational Violence, and the Foster System* (2024). Under Review. Draft available on request.
 
 [*Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors*](https://arxiv.org/abs/2407.11336) (2024). <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. <br>
 
