@@ -33,6 +33,14 @@ nav {
   }
 
 
-/* Footer */
-
-
+.nav-footer {
+    display: inline-block !important ;
+    flex-direction: row;
+    flex-wrap: unset;
+    justify-content: space-between;
+    align-items: baseline;
+    text-align: center;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    background-color: #fff;
+}
