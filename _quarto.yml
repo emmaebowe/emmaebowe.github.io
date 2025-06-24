@@ -10,7 +10,7 @@ website:
   search: false
   navbar:
     title: false
-    background: "#7a7c88"
+    background: "#8f919b"
     pinned: true
     left:
     - text: "Welcome"
