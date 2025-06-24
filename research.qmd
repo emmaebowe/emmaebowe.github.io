@@ -18,29 +18,28 @@ include-in-header:
 # RESEARCH
 
 :::
-::::
+<!-- :::: -->
 
 
-:::: {.g-col-12 .g-col-sm-6}
-<br> ![](talking.jpeg){width="95%"} <br> <h7 style="font-size:9px">Photo by Melissa Blackall</h7>
-::::
+<!-- :::: {.g-col-12 .g-col-sm-6} -->
+<!-- <br> ![](talking.jpeg){width="95%"} <br> <h7 style="font-size:9px">Photo by Melissa Blackall</h7> -->
+<!-- :::: -->
 
-:::: {.g-col-12 .g-col-sm-6}
+<!-- :::: {.g-col-12 .g-col-sm-6} -->
+### Dissertation
+
+My dissertation, *Intimately Bound: Injustice & and the Foster System,* examines the foster systems in England and the U.S. as political institutions, and subjects these systems to sustained criticisms of injustice. 
+
+To properly understand injustice in the contemporary foster system, I argue that we must correct a conceptual oversight about the definitive power of the system and how it is typically employed: the foster system engages in coercive relational intervention. More specifically, it enacts violence on our intimate relationships when it exercises its power to remove children from their carers. Much of the injustice in the system pertains to the misuse of this power, or, what I call, the capacity to employ *relational violence*. 
+
+An article defending the main claim of my dissertation about relational violence is currently forthcoming at the *American Journal of Political Science.* My full dissertation is available upon request.
+
 ### Journal Articles
 
-*Injustice, Relational Violence, and the Foster System* (2024). Under Review. Draft available on request.
+"Injustice, Relational Violence, and the Foster System." *American Journal of Political Science*, *forthcoming.* <br> Draft available on request.
 
-[*Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors*](https://arxiv.org/abs/2407.11336) (2024). <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. <br>
+["Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors."](https://arxiv.org/abs/2407.11336) *Under review* <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. <br>
 
-### Works in Progress
-
-*From Republican to Bipartisan Gerrymandering: Comparing Partisan Bias in Congressional Redistricting Cycles from 2010 to 2020* (2024). 
-
-*How Should Universities Ethically Engage with the Direct Descendants of those Enslaved by their Faculty, Leaders, and Staff?* (2024). With Christopher Hopson and Danielle Allen.
-
-*Parenting in Poverty: Injustice and Contemporary Definitions of Child Neglect.*
-
-*Racial Ideology, Welfare, and the Value of Black Intimate Bonds.*
 
 ::::
 

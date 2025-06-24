@@ -10,7 +10,7 @@ website:
   search: false
   navbar:
     title: false
-    background: "#B7C0CD"
+    background: "#7a7c88"
     pinned: true
     left:
     - text: "Welcome"
@@ -22,7 +22,7 @@ website:
 
     right:
     - text: "CV"
-      href: cv/cv_nov2024.pdf
+      href: cv/cv_jun2025.pdf
     - text: "{{< bi envelope >}}"
       href: mailto:eebowe@g.harvard.edu
     - text: "Service"
