@@ -28,7 +28,7 @@ website:
     - text: "Service"
       href: service.qmd
   page-footer:
-    right: "© 2024 Emma Ebowe"
+    right: "© 2024 Emma Ebowe. All rights reserved."
   google-analytics:
     tracking-id: "G-WC1DHY5K8W"
 
