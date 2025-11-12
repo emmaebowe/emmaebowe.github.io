@@ -19,7 +19,7 @@ include-in-header:
 :::: {.g-col-12 .g-col-sm-12}
 ::: {.text-center}
 
-# EMMA EBOWE
+### Emma Ebowe
 
 :::
 ::::
@@ -27,18 +27,21 @@ include-in-header:
 
 :::: {.g-col-12 .g-col-sm-6}
 
-<br> ![](talking.jpeg){width="95%"}
+![](talking.jpeg){width="95%"}
 <h7 style="font-size:9px" >Photo by Melissa Blackall</h7>
 
 ::::
 
 :::: {.g-col-12 .g-col-sm-6}
-<br>
-I am an Assistant Professor of Government and Africana Studies at the College of William and Mary. My research focusses on the social, political, and relational injustice produced by the welfare state. 
 
-I have interests in theories of justice, black political thought, feminist theory, and the state. My recent work proposes ethical and policy correctives for institutional injustice in the foster system and suggests new normative ideals to govern state intervention into intimate family life. I am also interested in partisan gerrymandering in congressional redistricting, specifically its implications for racial justice and democracy.
+**I am an Assistant Professor of Government and Africana Studies at the College of William and Mary**. 
 
-I was a [James M. and Cathleen D. Stone PhD Scholar in Inequality and Wealth Concentration](https://inequality.hks.harvard.edu/) and Graduate Fellow at the [Edmond & Lily Safra Center for Ethics](https://ethics.harvard.edu/). I'm affiliated with the [Center for American Political Studies](https://caps.gov.harvard.edu/home), [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu), and the [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.org/about.html).
+My research focusses on the social, political, and relational injustice produced by the welfare state. 
+I have interests in theories of justice, black political thought, feminist theory, and the state. My recent work proposes ethical and policy correctives for institutional injustice in the foster system and suggests new normative ideals to govern state intervention into intimate family life. 
+
+I have secondary interests in quantitatively examining in partisan gerrymandering in congressional redistricting, specifically its implications for racial justice and democracy.
+
+I have been a [James M. and Cathleen D. Stone PhD Scholar in Inequality and Wealth Concentration](https://inequality.hks.harvard.edu/) and Graduate Fellow at the [Edmond & Lily Safra Center for Ethics](https://ethics.harvard.edu/). I'm affiliated with the [Center for American Political Studies](https://caps.gov.harvard.edu/home), [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu), and the [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.org/about.html).
 
 
 ::::

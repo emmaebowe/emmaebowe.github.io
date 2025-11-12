@@ -14,18 +14,28 @@ include-in-header:
 :::: {.g-col-12 .g-col-sm-12}
 ::: {.text-center}
 
-# SERVICE AND AFFILIATIONS
+### SERVICE AND AFFILIATIONS
 
 :::
 ::::
 ::::: 
 
-### Quincy House
+
+<br>
 
 I have been fortunate to serve as a residential advisor and tutor in Harvard's second largest undergraduate dorm, [Quincy House](https://quincy.harvard.edu), for the past four years. During my time as a residential tutor I have advised students on academic fellowships within and beyond the university community, declaring a concentration (major) in Government, going to graduate school, LQBTQ advocacy, consent, wellness, and writing a senior thesis. I have hosted dorm wide programming, events, and workshops.
 
+::::: {.grid}
+:::: {.g-col-12 .g-col-sm-12}
+::: {.text-center}
+
 ### Affiliations
 
-I am a graduate student affiliate of the following centres and research groups: <br> The [Center for American Political Studies](https://caps.gov.harvard.edu/home) <br> The [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu) <br> The [Institute for Quantitative Social Science](https://www.iq.harvard.edu) <br> The [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.org/about.html).
+<br>
+
+:::
+::::
+::::: 
+I was a graduate student affiliate of the following centres and research groups: <br> The [Center for American Political Studies](https://caps.gov.harvard.edu/home) <br> The [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu) <br> The [Institute for Quantitative Social Science](https://www.iq.harvard.edu) <br> The [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.org/about.html).
 
 

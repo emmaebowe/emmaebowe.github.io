@@ -15,18 +15,42 @@ include-in-header:
 :::: {.g-col-12 .g-col-sm-12}
 ::: {.text-center}
 
-# RESEARCH
+### Journal Articles
 
 :::
-<!-- :::: -->
-
+::::
+:::::
+::::::
 
 <!-- :::: {.g-col-12 .g-col-sm-6} -->
 <!-- <br> ![](talking.jpeg){width="95%"} <br> <h7 style="font-size:9px">Photo by Melissa Blackall</h7> -->
 <!-- :::: -->
 
 <!-- :::: {.g-col-12 .g-col-sm-6} -->
+
+<br>
+
+["Injustice, Relational Violence, and the Foster System."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70003?af=R) *American Journal of Political Science*, *Early View.* <br> 
+
+["Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors."](https://arxiv.org/abs/2407.11336) *Under review.* <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. 
+
+<br>
+<br>
+
+
+:::::: {.column-page}
+::::: {.grid}
+:::: {.g-col-12 .g-col-sm-12}
+::: {.text-center}
+
 ### Dissertation
+
+:::
+::::
+:::::
+::::::
+
+<br>
 
 My dissertation, *Intimately Bound: Injustice & and the Foster System,* examines the foster systems in England and the U.S. as political institutions, and subjects these systems to sustained criticisms of injustice. 
 
@@ -34,15 +58,3 @@ To properly understand injustice in the contemporary foster system, I argue that
 
 An article defending the main claim of my dissertation about relational violence is currently forthcoming at the *American Journal of Political Science.* My full dissertation is available upon request.
 
-### Journal Articles
-
-"Injustice, Relational Violence, and the Foster System." *American Journal of Political Science*, *forthcoming.* <br> Draft available on request.
-
-["Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors."](https://arxiv.org/abs/2407.11336) *Under review* <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. <br>
-
-
-::::
-
-::::: 
-
-::::::

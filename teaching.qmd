@@ -14,29 +14,49 @@ include-in-header:
 :::: {.g-col-12 .g-col-sm-12}
 ::: {.text-center}
 
-# TEACHING
+### TEACHING
 
 :::
 ::::
 ::::: 
 
+<br>
 
 I have experience teaching for courses in democratic theory, the history of political thought, justice, public policy, and black feminist thought and literature. Copies of my teaching evaluations and sample syllabi are available upon request.
 
-### Teaching Fellow
+**Govt 402: Justice and the Family** (Instructor, Fall 2025)
+<br> Senior seminar examining debates about reproduction, racial justice, gender, and patriarchal domination.
 
-<h7 style="font-weight: bold"> Gen Ed 1041: From Slavery to #MeToo </h7> (Undergraduate. Fall 2021) <br> An introductory course on black women’s voices and black feminist thought in the U.S.
+**Gen Ed 1041: From Slavery to #MeToo** (Teaching Fellow, Fall 2021) 
+<br> An introductory course on black women’s voices and black feminist thought in the U.S.
 
-<h7 style="font-weight: bold"> Gov 10: Introduction to Political Theory </h7> (Undergraduate. Spring 2022) <br> An introductory course on the foundations of political theory.
+**Gov 10: Introduction to Political Theory** (Teaching Fellow, Spring 2022)
+<br> An introductory course on the foundations of political theory.
 
-<h7 style="font-weight: bold"> Gov 1041/DPI 247: Justice by Means of Democracy </h7> (Undergraduate and graduate. Spring 2023) <br> A course at the intersection of political theory, theories of justice, and public policy.
+**Gov 1041/DPI 247: Justice by Means of Democracy** (Teaching Fellow, Spring 2023)
+<br> A course at the intersection of political theory, theories of justice, and public policy.
+
+<br>
+
+::::: {.grid}
+:::: {.g-col-12 .g-col-sm-12}
+::: {.text-center}
 
 ### Academic Advising
 
-<h7 style="font-weight: bold">Concentration Advisor, Government Department </h7> (2021-2024) <br> Primary academic advisor for Government undergraduate students in Harvard's second largest undergraduate dorm, Quincy House.
+:::
+::::
+::::: 
 
-<h7 style="font-weight: bold"> Residential Tutor, Quincy House </h7> (2021-2024) <br> On-call mentor and advisor to 470 sophomores, juniors, and seniors.
+<br>
 
-<h7 style="font-weight: bold">Senior Thesis Advisor </h7> (2022-2024) <br> Advised theses in History and Literature, African and African American Studies, and Government.
+**Concentration Advisor, Government Department** (2021-2024)
+<br> Primary academic advisor for Government undergraduate students in Harvard's second largest undergraduate dorm, Quincy House.
+
+**Residential Tutor, Quincy House** (2021-2024)
+<br> On-call mentor and advisor to 470 sophomores, juniors, and seniors.
+
+**Senior Thesis Advisor** (2022-2024) 
+<br> Advised theses in History and Literature, African and African American Studies, and Government.
 
 <br>

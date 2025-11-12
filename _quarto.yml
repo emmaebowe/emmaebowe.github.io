@@ -10,23 +10,23 @@ website:
   search: false
   navbar:
     title: false
-    background: "#b6c7d8"
+    background: "#c4d2df"
     pinned: true
     left:
     - text: "Welcome"
       href: index.qmd
+
+    right:
     - text: "Research"
       href: research.qmd
     - text: "Teaching"
       href: teaching.qmd
-
-    right:
     - text: "CV"
-      href: cv/cv_jun2025.pdf
-    - text: "{{< bi envelope >}}"
-      href: mailto:eebowe@g.harvard.edu
+      href: cv/cv_aug2025.pdf
     - text: "Service"
       href: service.qmd
+    - text: "{{< bi envelope >}}"
+      href: mailto:evebowe@wm.edu
   page-footer:
     right: "© 2024 Emma Ebowe. All rights reserved."
   google-analytics:
