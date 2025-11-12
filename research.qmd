@@ -43,7 +43,7 @@ include-in-header:
 :::: {.g-col-12 .g-col-sm-12}
 ::: {.text-center}
 
-### Dissertation
+### Book Project
 
 :::
 ::::
@@ -52,9 +52,9 @@ include-in-header:
 
 <br>
 
-My dissertation, *Intimately Bound: Injustice & and the Foster System,* examines the foster systems in England and the U.S. as political institutions, and subjects these systems to sustained criticisms of injustice. 
+My current book project examines the contemporary foster systems in the US and UK, and critiques these systems for aggravating and compounding structural injustice. 
 
 To properly understand injustice in the contemporary foster system, I argue that we must correct a conceptual oversight about the definitive power of the system and how it is typically employed: the foster system engages in coercive relational intervention. More specifically, it enacts violence on our intimate relationships when it exercises its power to remove children from their carers. Much of the injustice in the system pertains to the misuse of this power, or, what I call, the capacity to employ *relational violence*. 
 
-An article defending the main claim of my dissertation about relational violence is currently forthcoming at the *American Journal of Political Science.* My full dissertation is available upon request.
+An article defending my account of relational violence is available for Early View at the *American Journal of Political Science.* 
 
