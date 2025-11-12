@@ -10,10 +10,10 @@ website:
   search: false
   navbar:
     title: false
-    background: "#c4d2df"
+    background: "#eef3f5"
     pinned: true
     left:
-    - text: "Welcome"
+    - text: "Home"
       href: index.qmd
 
     right:
