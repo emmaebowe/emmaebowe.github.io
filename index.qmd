@@ -37,7 +37,7 @@ include-in-header:
 **I am an Assistant Professor of Government and Africana Studies at the College of William and Mary**. 
 
 My research focusses on the social, political, and relational injustice produced by the welfare state. 
-I have interests in theories of justice, black political thought, feminist theory, and the state. My recent work proposes ethical and policy correctives for institutional injustice in the foster system and suggests new normative ideals to govern state intervention into intimate family life. 
+I have interests in theories of justice, black political thought, feminist theory, and the state. My recent work proposes ethical and policy correctives for injustice in the foster system and suggests new normative ideals to govern state intervention into intimate family life. 
 
 I have secondary interests in quantitatively examining in partisan gerrymandering in congressional redistricting, specifically its implications for racial justice and democracy.
 
