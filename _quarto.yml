@@ -18,13 +18,13 @@ website:
 
     right:
     - text: "Research"
-      href: research.qmd
+      href: index.html#research
     - text: "Teaching"
-      href: teaching.qmd
+      href: index.html#teaching
     - text: "CV"
       href: cv/cv_aug2025.pdf
     - text: "Service"
-      href: service.qmd
+      href: index.html#service
     - text: "{{< bi envelope >}}"
       href: mailto:evebowe@wm.edu
   page-footer:
