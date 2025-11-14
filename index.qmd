@@ -19,7 +19,7 @@ include-in-header:
 :::: {.g-col-12 .g-col-sm-12}
 ::: {.text-center}
 
-### Emma Ebowe
+## Emma Ebowe
 
 :::
 ::::
