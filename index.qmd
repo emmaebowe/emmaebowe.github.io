@@ -13,7 +13,6 @@ include-in-header:
     
 
 ---
-
 :::::: {.column-page}
 ::::: {.grid}
 :::: {.g-col-12 .g-col-sm-12}
@@ -71,9 +70,9 @@ I have been a [James M. and Cathleen D. Stone PhD Scholar in Inequality and Weal
 
 <br>
 
-["Injustice, Relational Violence, and the Foster System."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70003?af=R) *American Journal of Political Science*, *Early View.* <br> 
+["Injustice, Relational Violence, and the Foster System."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70003?af=R) *American Journal of Political Science*, *forthcoming.* <br> 
 
-["Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors."](https://arxiv.org/abs/2407.11336) *Under review.* <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. 
+["Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors."](https://arxiv.org/abs/2407.11336) *American Political Science Review*, *forthcoming.* <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. 
 
 <br>
 
@@ -116,15 +115,14 @@ I have experience teaching for courses in democratic theory, the history of poli
 **Govt 402: Justice and the Family** (Instructor, Fall 2025)
 <br> Senior seminar examining debates about reproduction, racial justice, gender, and patriarchal domination.
 
-**Gen Ed 1041: From Slavery to #MeToo** (Teaching Fellow, Fall 2021) 
-<br> An introductory course on black women’s voices and black feminist thought in the U.S.
+**Gov 1041/DPI 247: Justice by Means of Democracy** (Teaching Fellow, Spring 2023)
+<br> A course at the intersection of political theory, theories of justice, and public policy.
 
 **Gov 10: Introduction to Political Theory** (Teaching Fellow, Spring 2022)
 <br> An introductory course on the foundations of political theory.
 
-**Gov 1041/DPI 247: Justice by Means of Democracy** (Teaching Fellow, Spring 2023)
-<br> A course at the intersection of political theory, theories of justice, and public policy.
-
+**Gen Ed 1041: From Slavery to #MeToo** (Teaching Fellow, Fall 2021) 
+<br> An introductory course on black women’s voices and black feminist thought in the U.S.
 <br>
 
 ::::: {.grid}
