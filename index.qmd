@@ -70,9 +70,9 @@ I have been a [James M. and Cathleen D. Stone PhD Scholar in Inequality and Weal
 
 <br>
 
-["Injustice, Relational Violence, and the Foster System."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70003?af=R) *American Journal of Political Science*, *forthcoming.* <br> 
+["Injustice, Relational Violence, and the Foster System."](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70003?af=R) <br> __*American Journal of Political Science*__, *forthcoming.* <br> 
 
-["Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors."](https://arxiv.org/abs/2407.11336) *American Political Science Review*, *forthcoming.* <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. 
+["Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors."](https://arxiv.org/abs/2407.11336) <br> __*American Political Science Review*__, *forthcoming.* <br> With Cory McCartan, Christopher T. Kenny, Tyler Simko, Michael Y Zhao, and Kosuke Imai. 
 
 <br>
 
@@ -95,7 +95,7 @@ My current book project examines the contemporary foster systems in the US and U
 
 To properly understand injustice in the contemporary foster system, I argue that we must correct a conceptual oversight about the definitive power of the system and how it is typically employed: the foster system engages in coercive relational intervention. More specifically, it enacts violence on our intimate relationships when it exercises its power to remove children from their carers. Much of the injustice in the system pertains to the misuse of this power, or, what I call, the capacity to employ *relational violence*. 
 
-An article defending my account of relational violence is available for Early View at the *American Journal of Political Science.* 
+An article defending my account of relational violence is available for [Early View](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70003?af=R) at the *American Journal of Political Science.* 
 
 
 ::::: {.grid}
