@@ -35,9 +35,9 @@ include-in-header:
 
 **I am a political theorist and an Assistant Professor of Government and Africana Studies at the [College of William and Mary](https://www.wm.edu)**. 
 
-I study the state's interventions into intimate relationships. My most recent research examines the social, political, and relational injustice produced by the contemporary foster systems in Britain and the United States.
+I study the state's interventions into intimate relationships. My most recent research examines the many forms of injustice produced by the contemporary foster systems in Britain and the United States.
 
-I also have research interests in quantitatively examining partisan gerrymandering in congressional redistricting, specifically its implications for democracy and racial justice. 
+I also have research interests in quantitatively examining partisan gerrymandering in congressional redistricting, specifically its implications for democratic equality. 
 
 My recent work is forthcoming at the 
 *American Journal for Political Science* and *American Political Science Review*. 
