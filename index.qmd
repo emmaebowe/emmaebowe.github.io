@@ -35,7 +35,7 @@ include-in-header:
 
 **I am a political theorist and an Assistant Professor of Government and Africana Studies at the [College of William and Mary](https://www.wm.edu)**. 
 
-I study the state's interventions into intimate relationships. My most recent research examines the social, political, and relational injustice produced by the contemporary foster system in Britain and United States. 
+I study the state's interventions into intimate relationships. My most recent research examines the social, political, and relational injustice produced by the contemporary foster systems in Britain and the United States.
 
 I also have research interests in quantitatively examining partisan gerrymandering in congressional redistricting, specifically its implications for democracy and racial justice. 
 
@@ -93,7 +93,7 @@ I have been a [James M. and Cathleen D. Stone PhD Scholar in Inequality and Weal
 
 <br>
 
-My current book project examines the contemporary foster systems in the Britain and the United States, and critiques these systems for aggravating and compounding injustice. 
+My current book project examines the contemporary foster systems in Britain and the United States, and critiques these systems for aggravating and compounding injustice. 
 
 To properly understand injustice in the contemporary foster system, I argue that we must correct a conceptual oversight about the definitive power of the system and how it is typically employed: the foster system engages in coercive relational intervention. More specifically, it enacts violence on our intimate relationships when it exercises its power to remove children from their carers. Much of the injustice in the system pertains to the misuse of this power, or, what I call, the capacity to employ *relational violence*. 
 
