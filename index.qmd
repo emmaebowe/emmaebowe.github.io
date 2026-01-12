@@ -35,9 +35,12 @@ include-in-header:
 
 **I am a political theorist and an Assistant Professor of Government and Africana Studies at the [College of William and Mary](https://www.wm.edu)**. 
 
-I study the state's interventions into intimate relationships. My most recent research examines the social, political, and relational injustice produced by the contemporary foster system in Britain and United States.
+I study the state's interventions into intimate relationships. My most recent research examines the social, political, and relational injustice produced by the contemporary foster system in Britain and United States. 
 
-I also have research interests in quantitatively examining partisan gerrymandering in congressional redistricting, specifically its implications for democracy and racial justice.
+I also have research interests in quantitatively examining partisan gerrymandering in congressional redistricting, specifically its implications for democracy and racial justice. 
+
+My recent work is forthcoming at the 
+*American Journal for Political Science* and *American Political Science Review*. 
 
 I have been a [James M. and Cathleen D. Stone PhD Scholar in Inequality and Wealth Concentration](https://inequality.hks.harvard.edu/) and Graduate Fellow at the [Edmond & Lily Safra Center for Ethics](https://ethics.harvard.edu/). I'm affiliated with the [Center for American Political Studies](https://caps.gov.harvard.edu/home), [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu), and the [Algorithm-Assisted Redistricting Methodology (ALARM) Project](https://alarm-redist.org/about.html).
 
