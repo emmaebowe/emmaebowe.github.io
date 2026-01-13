@@ -22,7 +22,7 @@ website:
     - text: "Teaching"
       href: index.html#teaching
     - text: "CV"
-      href: cv/cv_aug2025.pdf
+      href: cv/cv_jan2026.pdf
     - text: "Service"
       href: index.html#service
     - text: "{{< bi envelope >}}"
