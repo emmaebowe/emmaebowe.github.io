@@ -33,7 +33,7 @@ include-in-header:
 
 :::: {.g-col-12 .g-col-sm-6}
 
-**I am a political theorist and an Assistant Professor at the College of William and Mary, jointly appointed in the [Department of Government](https://www.wm.edu/as/government/) and the [Africana Studies Program](https://www.wm.edu/as/africanastudies/)**. 
+**I am a political theorist and Assistant Professor at the College of William and Mary, jointly appointed in the [Department of Government](https://www.wm.edu/as/government/) and the [Africana Studies Program](https://www.wm.edu/as/africanastudies/)**. 
 
 I study the state's interventions into our intimate relationships. My current project examines the many forms of injustice produced by the contemporary foster systems in Britain and the United States.
 
